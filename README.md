@@ -1,3 +1,5 @@
+![](images/noou_meta.jpg)
+
 # Landing Page
 
 Just a simple placeholder for noou.org until it launches.
